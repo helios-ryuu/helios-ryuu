@@ -1,10 +1,13 @@
-<h1 align="center">Hi👋, I'm Helios☀️</h1>
+<h1 data-importer="text" align="center">Hi👋, I'm Helios</h1>
 
 ###
 
-<div align="center">
+<div data-importer="socials" align="center">
   <a href="https://www.linkedin.com/in/helios-nts/" target="_blank">
     <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="20" alt="linkedin logo"  />
+  </a>
+  <a href="https://x.com/helios_ryuu" target="_blank">
+    <img src="https://img.shields.io/static/v1?message=X&logo=x&label=&color=000000&logoColor=white&labelColor=&style=for-the-badge" height="20" alt="twitter logo"  />
   </a>
   <a href="https://discord.com/users/804727436985630740/" target="_blank">
     <img src="https://img.shields.io/static/v1?message=Discord&logo=discord&label=&color=7289DA&logoColor=white&labelColor=&style=for-the-badge" height="20" alt="discord logo"  />
@@ -16,62 +19,83 @@
 
 ###
 
-<h4 align="center">DevOps-oriented Backend Engineer who enjoys building real systems<br>Focusing on automation, system design, and CI/CD workflows<br>Clear thinking, small iterations, and honest progress.</h4>
+<h4 data-importer="text" align="left">DevOps Engineer who enjoys building real systems.<br>Clear thinking, small iterations, and honest progress.</h4>
 
 ###
 
-<h5 align="center">I share progress. Issues, discussions, and feedback are always welcome<br>If something here helps you, feel free to use it ;)</h5>
+<h5 data-importer="text" align="right">I share progress. Discussions, and feedback are always welcome<br>If something here helps you, feel free to use it ;)</h5>
 
 ###
 
-<h2 align="center">🏗️ What I'm Building Now</h2>
+<h6 data-importer="text" align="center">The world opens itself before those with noble hearts</h6>
 
 ###
 
-<h4 align="center">📟Personal Markdown-based blog webpage 🌐<br> 💵Personal Finance Mobile App📲</h4>
+<h2 data-importer="text" align="center">My Domains</h2>
 
 ###
 
-<h2 align="center">⚙️Tech Stacks</h2>
-
-###
-
-<div align="center">
-  <img src="https://skillicons.dev/icons?i=js" height="40" alt="javascript logo"  />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=ts" height="40" alt="typescript logo"  />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=py" height="40" alt="python logo"  />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=react" height="40" alt="react logo"  />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=fastapi" height="40" alt="fastapi logo"  />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=supabase" height="40" alt="supabase logo"  />
+<div data-importer="techs" align="left">
+  <img src="https://skillicons.dev/icons?i=aws" height="40" alt="amazonwebservices logo"  />
   <img width="12" />
   <img src="https://skillicons.dev/icons?i=docker" height="40" alt="docker logo"  />
   <img width="12" />
   <img src="https://skillicons.dev/icons?i=kubernetes" height="40" alt="kubernetes logo"  />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=gcp" height="40" alt="googlecloud logo"  />
   <img width="12" />
   <img src="https://skillicons.dev/icons?i=grafana" height="40" alt="grafana logo"  />
   <img width="12" />
   <img src="https://skillicons.dev/icons?i=prometheus" height="40" alt="prometheus logo"  />
   <img width="12" />
   <img src="https://skillicons.dev/icons?i=sentry" height="40" alt="sentry logo"  />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=githubactions" height="40" alt="githubactions logo"  />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=jenkins" height="40" alt="jenkins logo"  />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=go" height="40" alt="go logo"  />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=linux" height="40" alt="linux logo"  />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=bash" height="40" alt="bash logo"  />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=cloudflare" height="40" alt="cloudflare logo"  />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=fastapi" height="40" alt="fastapi logo"  />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=py" height="40" alt="python logo"  />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=supabase" height="40" alt="supabase logo"  />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=postgres" height="40" alt="postgresql logo"  />
 </div>
 
 ###
 
-<h3 align="center">Favorite Quote: The world opens itself before those with noble hearts</h3>
+<picture data-importer="pacman">
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/helios-ryuu/helios-ryuu/pacman-output/galaga-contribution-graph-dark.svg?game=galaga">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/helios-ryuu/helios-ryuu/pacman-output/galaga-contribution-graph.svg?game=galaga">
+  <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/helios-ryuu/helios-ryuu/pacman-output/galaga-contribution-graph.svg?game=galaga">
+</picture>
 
 ###
 
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/helios-ryuu/helios-ryuu/output/pacman-contribution-graph-dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/helios-ryuu/helios-ryuu/output/pacman-contribution-graph.svg">
-  <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/helios-ryuu/helios-ryuu/output/pacman-contribution-graph.svg">
-</picture>
+<div data-importer="stats" align="left">
+  <img src="https://raw.githubusercontent.com/helios-ryuu/helios-ryuu/stats-output/stats.svg?hide_title=false&hide_rank=true&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=gotham&locale=en&hide_border=true&order=1&custom_title=My%20GitHub%20Statistics" height="150" alt="stats graph"  />
+  <img src="https://raw.githubusercontent.com/helios-ryuu/helios-ryuu/languages-output/languages.svg?locale=en&hide_title=false&layout=compact&card_width=320&langs_count=6&theme=gotham&hide_border=true&order=2" height="150" alt="languages graph"  />
+</div>
+
+###
+
+<div data-importer="music" align="center">
+  <a href="https://open.spotify.com/user/316ocnf3mbps6yjztyhkz63rynie">
+    <img src="https://spotify-recently-played.jeffreyca.workers.dev/svg?user=316ocnf3mbps6yjztyhkz63rynie&amp;count=3&amp;width=450&amp;radius=20" alt="Spotify recently played" width="450" />
+  </a>
+</div>
+
+###
+
+<div data-importer="profile-views" align="center">
+  <img data-importer="profile-views" src="https://visitor-badge.laobi.icu/badge?page_id=helios-ryuu.helios-ryuu&right_color=darkorange"  />
+</div>
 
 ###
