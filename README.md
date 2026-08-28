@@ -4,9 +4,8 @@
 
 ###
 
-<table width="100%">
-  <tr>
-    <td width="65%" valign="top">
+<div style="display: flex; flex-wrap: wrap; gap: 1.5rem; align-items: center;">
+  <div style="flex: 1 1 26rem; min-width: 0;">
       <p align="left">I am a <b>DevOps Engineer</b> focused on practical automation, resilient infrastructure, and continuous improvement.</p>
       <p align="left">I share my learning journey and welcome thoughtful discussions and feedback. If something here helps you, feel free to use it ;)</p>
       <blockquote><i>“The world opens itself before those with noble hearts.”</i></blockquote>
@@ -30,14 +29,13 @@
           <img src="https://img.shields.io/static/v1?message=Instagram&logo=instagram&label=&color=E4405F&logoColor=white&labelColor=&style=for-the-badge" height="20" alt="instagram logo"  />
         </a>
       </div>
-    </td>
-    <td width="35%" align="center" valign="middle" data-importer="music">
+  </div>
+  <div data-importer="music" align="center" style="flex: 1 1 22rem; min-width: 0;">
       <a href="https://open.spotify.com/user/316ocnf3mbps6yjztyhkz63rynie">
         <img src="https://spotify-recently-played.jeffreyca.workers.dev/svg?user=316ocnf3mbps6yjztyhkz63rynie&amp;count=5&amp;width=450&amp;radius=20" alt="Spotify recently played" width="100%" />
       </a>
-    </td>
-  </tr>
-</table>
+  </div>
+</div>
 
 ###
 
