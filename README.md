@@ -4,40 +4,39 @@
 
 ###
 
-<table width="100%" style="border-collapse: collapse; border: none; border-spacing: 0;">
-  <tr style="border: none;">
-    <td valign="top" style="border: none; padding-right: 20px;">
-      <p align="left">I am a <b>DevOps Engineer</b> focused on practical automation, resilient infrastructure, and continuous improvement.</p>
-      <p align="left">I share my learning journey and welcome thoughtful discussions and feedback. If something here helps you, feel free to use it ;)</p>
-      <blockquote><i>“The world opens itself before those with noble hearts.”</i></blockquote>
-      <div data-importer="profile-views" align="left">
-        <img data-importer="profile-views" src="https://visitor-badge.laobi.icu/badge?page_id=helios-ryuu.helios-ryuu&right_color=darkorange" />
-        <a href="https://github.com/helios-ryuu">
-          <img src="https://img.shields.io/github/followers/helios-ryuu?style=flat-square&logo=github&label=Followers" alt="GitHub followers" />
-        </a>
-      </div>
-      <div data-importer="socials" align="left" style="margin-top: 10px;">
-        <a href="https://www.linkedin.com/in/helios-nts/" target="_blank">
-          <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="20" alt="linkedin logo" />
-        </a>
-        <a href="https://x.com/helios_ryuu" target="_blank">
-          <img src="https://img.shields.io/static/v1?message=X&logo=x&label=&color=000000&logoColor=white&labelColor=&style=for-the-badge" height="20" alt="twitter logo" />
-        </a>
-        <a href="https://discord.com/users/804727436985630740/" target="_blank">
-          <img src="https://img.shields.io/static/v1?message=Discord&logo=discord&label=&color=7289DA&logoColor=white&labelColor=&style=for-the-badge" height="20" alt="discord logo" />
-        </a>
-        <a href="https://www.instagram.com/helios_innov/" target="_blank">
-          <img src="https://img.shields.io/static/v1?message=Instagram&logo=instagram&label=&color=E4405F&logoColor=white&labelColor=&style=for-the-badge" height="20" alt="instagram logo" />
-        </a>
-      </div>
-    </td>
-    <td width="340" valign="top" align="center" style="border: none;">
-      <a href="https://open.spotify.com/user/316ocnf3mbps6yjztyhkz63rynie">
-        <img src="https://spotify-recently-played.jeffreyca.workers.dev/svg?user=316ocnf3mbps6yjztyhkz63rynie&amp;count=4&amp;width=340&amp;radius=20" alt="Spotify recently played" width="340" />
-      </a>
-    </td>
-  </tr>
-</table>
+<a href="https://open.spotify.com/user/316ocnf3mbps6yjztyhkz63rynie">
+  <img align="right" src="https://spotify-recently-played.jeffreyca.workers.dev/svg?user=316ocnf3mbps6yjztyhkz63rynie&amp;count=4&amp;width=350&amp;radius=20" alt="Spotify recently played" width="42%" />
+</a>
+
+<p align="left">I am a <b>DevOps Engineer</b> focused on practical automation, resilient infrastructure, and continuous improvement.</p>
+
+<p align="left">I share my learning journey and welcome thoughtful discussions and feedback. If something here helps you, feel free to use it ;)</p>
+
+<blockquote><i>“The world opens itself before those with noble hearts.”</i></blockquote>
+
+<div data-importer="profile-views" align="left">
+  <img data-importer="profile-views" src="https://visitor-badge.laobi.icu/badge?page_id=helios-ryuu.helios-ryuu&right_color=darkorange" />
+  <a href="https://github.com/helios-ryuu">
+    <img src="https://img.shields.io/github/followers/helios-ryuu?style=flat-square&logo=github&label=Followers" alt="GitHub followers" />
+  </a>
+</div>
+
+<div data-importer="socials" align="left" style="margin-top: 10px;">
+  <a href="https://www.linkedin.com/in/helios-nts/" target="_blank">
+    <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="20" alt="linkedin logo" />
+  </a>
+  <a href="https://x.com/helios_ryuu" target="_blank">
+    <img src="https://img.shields.io/static/v1?message=X&logo=x&label=&color=000000&logoColor=white&labelColor=&style=for-the-badge" height="20" alt="twitter logo" />
+  </a>
+  <a href="https://discord.com/users/804727436985630740/" target="_blank">
+    <img src="https://img.shields.io/static/v1?message=Discord&logo=discord&label=&color=7289DA&logoColor=white&labelColor=&style=for-the-badge" height="20" alt="discord logo" />
+  </a>
+  <a href="https://www.instagram.com/helios_innov/" target="_blank">
+    <img src="https://img.shields.io/static/v1?message=Instagram&logo=instagram&label=&color=E4405F&logoColor=white&labelColor=&style=for-the-badge" height="20" alt="instagram logo" />
+  </a>
+</div>
+
+<br clear="both" />
 
 ###
 
