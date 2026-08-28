@@ -19,15 +19,21 @@
 
 ###
 
-<h4 data-importer="text" align="left">DevOps Engineer who enjoys building real systems.<br>Clear thinking, small iterations, and honest progress.</h4>
+<h3 data-importer="text" align="left">DevOps Engineer who enjoys building real systems.<br>Clear thinking, small iterations, and honest progress.</h3>
 
 ###
 
-<h5 data-importer="text" align="right">I share progress. Discussions, and feedback are always welcome<br>If something here helps you, feel free to use it ;)</h5>
+<h4 data-importer="text" align="right">I share progress. Discussions, and feedback are always welcome<br>If something here helps you, feel free to use it ;)</h4>
 
 ###
 
-<h6 data-importer="text" align="center">The world opens itself before those with noble hearts</h6>
+<h5 data-importer="text" align="center"><i>The world opens itself before those with noble hearts</i></h5>
+
+###
+
+<div data-importer="profile-views" align="center">
+  <img data-importer="profile-views" src="https://visitor-badge.laobi.icu/badge?page_id=helios-ryuu.helios-ryuu&right_color=darkorange"  />
+</div>
 
 ###
 
@@ -35,7 +41,7 @@
 
 ###
 
-<div data-importer="techs" align="left">
+<div data-importer="techs" align="center">
   <img src="https://skillicons.dev/icons?i=aws" height="40" alt="amazonwebservices logo"  />
   <img width="12" />
   <img src="https://skillicons.dev/icons?i=docker" height="40" alt="docker logo"  />
@@ -71,21 +77,6 @@
 
 ###
 
-<picture data-importer="pacman">
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/helios-ryuu/helios-ryuu/pacman-output/galaga-contribution-graph-dark.svg?game=galaga">
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/helios-ryuu/helios-ryuu/pacman-output/galaga-contribution-graph.svg?game=galaga">
-  <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/helios-ryuu/helios-ryuu/pacman-output/galaga-contribution-graph.svg?game=galaga">
-</picture>
-
-###
-
-<div data-importer="stats" align="left">
-  <img src="https://raw.githubusercontent.com/helios-ryuu/helios-ryuu/stats-output/stats.svg?hide_title=false&hide_rank=true&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=gotham&locale=en&hide_border=true&order=1&custom_title=My%20GitHub%20Statistics" height="150" alt="stats graph"  />
-  <img src="https://raw.githubusercontent.com/helios-ryuu/helios-ryuu/languages-output/languages.svg?locale=en&hide_title=false&layout=compact&card_width=320&langs_count=6&theme=gotham&hide_border=true&order=2" height="150" alt="languages graph"  />
-</div>
-
-###
-
 <div data-importer="music" align="center">
   <a href="https://open.spotify.com/user/316ocnf3mbps6yjztyhkz63rynie">
     <img src="https://spotify-recently-played.jeffreyca.workers.dev/svg?user=316ocnf3mbps6yjztyhkz63rynie&amp;count=3&amp;width=450&amp;radius=20" alt="Spotify recently played" width="450" />
@@ -94,8 +85,10 @@
 
 ###
 
-<div data-importer="profile-views" align="center">
-  <img data-importer="profile-views" src="https://visitor-badge.laobi.icu/badge?page_id=helios-ryuu.helios-ryuu&right_color=darkorange"  />
-</div>
+<picture data-importer="pacman">
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/helios-ryuu/helios-ryuu/pacman-output/galaga-contribution-graph-dark.svg?game=galaga">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/helios-ryuu/helios-ryuu/pacman-output/galaga-contribution-graph.svg?game=galaga">
+  <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/helios-ryuu/helios-ryuu/pacman-output/galaga-contribution-graph.svg?game=galaga">
+</picture>
 
 ###
