@@ -6,7 +6,7 @@
 
 <table width="100%" style="border-collapse: collapse; border: none;">
   <tr style="border: none;">
-    <td width="65%" valign="top" style="border: none; padding-right: 15px;">
+    <td width="60%" valign="top" style="border: none; padding-right: 15px;">
       <p align="left">I am a <b>DevOps Engineer</b> focused on practical automation, resilient infrastructure, and continuous improvement.</p>
       <p align="left">I share my learning journey and welcome thoughtful discussions and feedback. If something here helps you, feel free to use it ;)</p>
       <blockquote><i>“The world opens itself before those with noble hearts.”</i></blockquote>
@@ -31,7 +31,7 @@
         </a>
       </div>
     </td>
-    <td width="35%" valign="top" align="center" style="border: none;">
+    <td width="40%" valign="top" align="center" style="border: none;">
       <a href="https://open.spotify.com/user/316ocnf3mbps6yjztyhkz63rynie">
         <img src="https://spotify-recently-played.jeffreyca.workers.dev/svg?user=316ocnf3mbps6yjztyhkz63rynie&amp;count=4&amp;width=450&amp;radius=20" alt="Spotify recently played" width="100%" />
       </a>
