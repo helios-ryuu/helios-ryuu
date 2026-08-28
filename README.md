@@ -1,13 +1,13 @@
 # Hi 👋, I'm Helios
 
-*Building reliable systems today — engineering secure delivery tomorrow.*
+*Building reliable systems today — engineering secure delivery tomorrow*
 
 ###
 
 <table width="100%">
   <tr>
     <td width="67%" valign="top">
-      <p align="left">I am a <b>DevOps Engineer</b> focused on practical automation, resilient infrastructure, and continuous improvement — one small iteration at a time.</p>
+      <p align="left">I am a <b>DevOps Engineer</b> focused on practical automation, resilient infrastructure, and continuous improvement.</p>
       <p align="left">I share my learning journey and welcome thoughtful discussions and feedback.</p>
       <blockquote><i>“The world opens itself before those with noble hearts.”</i></blockquote>
     </td>
